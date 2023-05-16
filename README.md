@@ -12,5 +12,5 @@ This project was built using:
 - Flyway migration
 
 ## API Endpoints
-- Products: http://localhost:8081/api/v1/orders/
+- Products: http://localhost:8085/api/v1/products/
 - Orders: http://localhost:8081/api/v1/orders/
